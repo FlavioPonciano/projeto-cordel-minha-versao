@@ -61,7 +61,7 @@ section {
 }
 
 .fundo-img1 {
-    height: 50vh;
+    height: 40vh;
     color: var(--branco);
     background-image: url('../imagens/background001.jpg');
     background-size: cover;
@@ -70,7 +70,7 @@ section {
 }
 
 .fundo-img2 {
-    height: 50vh;
+    height: 40vh;
     color: var(--branco);
     background-image: url('../imagens/background002.jpg');
     background-size: cover;
