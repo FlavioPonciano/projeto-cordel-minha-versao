@@ -90,7 +90,7 @@ footer {
     text-align: center;
     max-height: 200px;
     font-family: var(--fonte1);
-    padding: 10px 0px;
+    padding: 10px 10px;
 }
 
 footer a {
